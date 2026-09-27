@@ -1,6 +1,6 @@
 # IAM
 
-## EXPERIMENT 06
+# EXPERIMENT 06
 
 # NAME : mohan m
 
